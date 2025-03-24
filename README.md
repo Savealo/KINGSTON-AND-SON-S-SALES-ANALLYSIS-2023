@@ -3,6 +3,8 @@ This project is designed to analyze the general performance of the different cat
 Problem Being Addressed: This project is trying to identify lapses in any of the following: product category, product category quantity sold,  Data Collection Process: This data was obtained from Kaggle.com 
 Data Structure: The data contains 1002 rows with each representing a distinct transaction.  And 14 columns representing Product ID, Sale date, Sales Rep, Region, Sales amount, Quantity sold, product category, unit cost, unit price, customer type, discount, payment method, sales channel, payment method, sales channel, Region an sales rep. 
 alespersons, sales and payment channel and type of Customers which if addressed will lead to improvement in revenue generation. 
+
+
 IN-ANALYSIS
 
 
