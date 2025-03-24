@@ -4,6 +4,11 @@ Problem Being Addressed: This project is trying to identify lapses in any of the
 Data Structure: The data contains 1002 rows with each representing a distinct transaction.  And 14 columns representing Product ID, Sale date, Sales Rep, Region, Sales amount, Quantity sold, product category, unit cost, unit price, customer type, discount, payment method, sales channel, payment method, sales channel, Region an sales rep. 
 alespersons, sales and payment channel and type of Customers which if addressed will lead to improvement in revenue generation. 
 IN-ANALYSIS
+
+
+![KINGSTON AND SON'S ANALYSIS REPORT](https://github.com/user-attachments/assets/b71d6769-794d-43ac-9982-f10840a013a6)
+
+
 Unconfirmed Insights: 
 1. January is the best sales month with a total sales of $495,420.37 while June was the lowest sales month with a total sales of $374,242.88
 2. David closed the year as the best sales Rep with a total sales of $1,369,612.51  while Charlie is the least performing sales rep with a total of $860,811.48 
